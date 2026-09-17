@@ -1,0 +1,9 @@
+{
+  "name": "received",
+  "version": "1.0.0",
+  "description": "我查看过的空投历史",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

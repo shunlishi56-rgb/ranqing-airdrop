@@ -1,0 +1,48 @@
+/* uni-app 全局 SCSS 变量（保持默认，附加项目色板） */
+$uni-color-primary: #4191F4;
+$uni-color-success: #4CAF50;
+$uni-color-warning: #FF9800;
+$uni-color-error: #E65353;
+
+$uni-text-color: #141618;
+$uni-text-color-inverse: #fff;
+$uni-text-color-grey: #999;
+$uni-text-color-placeholder: #C0C4CC;
+$uni-text-color-disable: #C0C0C0;
+
+$uni-bg-color: #F6F6F6;
+$uni-bg-color-grey: #F8F8F8;
+$uni-bg-color-hover: #f1f1f1;
+$uni-bg-color-mask: rgba(0, 0, 0, 0.4);
+
+$uni-border-color: #E8E9EA;
+
+$uni-font-size-sm: 24rpx;
+$uni-font-size-base: 28rpx;
+$uni-font-size-lg: 32rpx;
+
+$uni-img-size-sm: 40rpx;
+$uni-img-size-base: 52rpx;
+$uni-img-size-lg: 80rpx;
+
+$uni-border-radius-sm: 8rpx;
+$uni-border-radius-base: 16rpx;
+$uni-border-radius-lg: 24rpx;
+$uni-border-radius-circle: 50%;
+
+$uni-spacing-row-sm: 10rpx;
+$uni-spacing-row-base: 20rpx;
+$uni-spacing-row-lg: 30rpx;
+
+$uni-spacing-col-sm: 8rpx;
+$uni-spacing-col-base: 16rpx;
+$uni-spacing-col-lg: 24rpx;
+
+$uni-opacity-disabled: 0.3;
+
+$uni-color-title: #141618;
+$uni-font-size-title: 40rpx;
+$uni-color-subtitle: #7D8991;
+$uni-font-size-subtitle: 36rpx;
+$uni-color-paragraph: #3F536E;
+$uni-font-size-paragraph: 30rpx;

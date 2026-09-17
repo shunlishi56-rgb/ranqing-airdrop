@@ -1,0 +1,59 @@
+{
+  "easycom": {
+    "custom": {
+      "^privacy-popup$": "@/components/privacy-popup/privacy-popup.vue"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "苒晴空投"
+      }
+    },
+    {
+      "path": "pages/send/send",
+      "style": {
+        "navigationBarTitleText": "发送空投"
+      }
+    },
+    {
+      "path": "pages/receive/receive",
+      "style": {
+        "navigationBarTitleText": "接收空投"
+      }
+    },
+    {
+      "path": "pages/detail/detail",
+      "style": {
+        "navigationBarTitleText": "空投详情"
+      }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/admin/admin",
+      "style": {
+        "navigationBarTitleText": "管理面板"
+      }
+    },
+    {
+      "path": "pages/guide/guide",
+      "style": {
+        "navigationBarTitleText": "使用说明"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarBackgroundColor": "#F2F3F7",
+    "navigationBarTitleText": "苒晴空投",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#F2F3F7",
+    "backgroundTextStyle": "dark"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "redeem",
+  "version": "1.0.0",
+  "description": "用户兑换卡密获得使用资格",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

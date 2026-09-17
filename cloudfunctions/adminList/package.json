@@ -1,0 +1,9 @@
+{
+  "name": "adminList",
+  "version": "1.0.0",
+  "description": "管理员：全部空投列表",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "initSetup",
+  "version": "1.0.0",
+  "description": "初始化配置集合（一次性）",
+  "main": "index.js",
+  "dependencies": {
+    "wx-server-sdk": "~2.6.3"
+  }
+}

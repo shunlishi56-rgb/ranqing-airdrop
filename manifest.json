@@ -1,0 +1,47 @@
+{
+  "name": "苒晴空投",
+  "appid": "",
+  "description": "文件临时中转站：发送内容生成取件码，凭码取件，到期自动销毁",
+  "versionName": "1.0.0",
+  "versionCode": 100,
+  "transformPx": false,
+  "app-plus": {
+    "usingComponents": true,
+    "nvueStyleCompiler": "uni-app",
+    "compilerVersion": 3,
+    "splashscreen": {
+      "alwaysShowBeforeRender": true,
+      "waiting": true,
+      "autoclose": true,
+      "delay": 0
+    },
+    "modules": {},
+    "distribute": {
+      "android": {
+        "permissions": [
+          "<uses-permission android:name=\"android.permission.INTERNET\"/>"
+        ]
+      },
+      "ios": {},
+      "sdkConfigs": {}
+    }
+  },
+  "quickapp": {},
+  "mp-weixin": {
+    "appid": "wx11dc6d52c6da69a0",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "enhance": true,
+      "postcss": true,
+      "minified": true
+    },
+    "usingComponents": true,
+    "lazyCodeLoading": "requiredComponents",
+    "cloudfunctionRoot": "cloudfunctions/",
+    "libVersion": "latest",
+    "permission": {},
+    "requiredBackgroundModes": []
+  },
+  "vueVersion": "3"
+}
