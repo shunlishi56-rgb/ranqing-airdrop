@@ -1,13 +1,4 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'badd626c-9e6e-4dd0-9daa-14b4da90a45b'
-  PropagateID: 'badd626c-9e6e-4dd0-9daa-14b4da90a45b'
-  ReservedCode1: 'bd3e6d5c-0508-4131-ae27-0b4f47cc64da'
-  ReservedCode2: 'bd3e6d5c-0508-4131-ae27-0b4f47cc64da'
----
+
 
 # 苒晴空投 · 微信小程序
 
@@ -157,4 +148,3 @@ HBuilderX → 运行到微信开发者工具。测试流程：
 - 空投附言/口令（取件需输入口令）
 - 阅后即焚模式（被取一次即销毁）
 
-> AI生成
